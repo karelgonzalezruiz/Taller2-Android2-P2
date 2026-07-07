@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Encuestas Offline</string>
+    <string name="bienvenida_titulo">Bienvenido a la encuesta</string>
+    <string name="bienvenida_subtitulo">Su opinion nos ayuda a mejorar el servicio.</string>
+    <string name="bienvenida_descripcion">Esta encuesta funciona sin internet y guarda las respuestas en SQLite local.</string>
+    <string name="iniciar_encuesta">Iniciar Encuesta</string>
+    <string name="titulo_encuesta">Encuesta de satisfaccion</string>
+    <string name="subtitulo_encuesta">Responda todas las preguntas para guardar la encuesta offline.</string>
+    <string name="guardar_encuesta">Guardar Encuesta</string>
+    <string name="ver_historial">Ver Historial</string>
+    <string name="volver_inicio">Inicio</string>
+    <string name="ir_encuesta">Encuesta</string>
+    <string name="encuesta_completada">Encuesta completada</string>
+    <string name="gracias_encuesta">Muchas gracias por responder. Sus respuestas fueron guardadas correctamente.</string>
+    <string name="nueva_encuesta">Nueva Encuesta</string>
+    <string name="titulo_historial">Historial de Encuestas</string>
+    <string name="subtitulo_historial">Encuestas guardadas en SQLite local.</string>
+    <string name="volver_encuesta">Volver a Encuesta</string>
+</resources>
